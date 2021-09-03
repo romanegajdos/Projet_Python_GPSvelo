@@ -29,6 +29,7 @@ Visualisation_pistes : carte des différents types d'aménagements en Ile de Fra
     3) Accidents de vélos
     
  II. Personnalisation du GPS : modules d'information et de prévention
+    
     1) Accidents : clusters
     
     2) Météo
