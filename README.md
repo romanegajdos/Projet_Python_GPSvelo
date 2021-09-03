@@ -17,7 +17,7 @@ Visualisation_pistes : carte des différents types d'aménagements en Ile de Fra
 
 **Plan du notebook final : **
 
-  Introduction : screen du folium final pour UN MAX DE TEASING
+  Introduction 
   
   
  I. Visualisation : faire du vélo en IDF
